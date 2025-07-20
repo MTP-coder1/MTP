@@ -62,7 +62,7 @@ end
 
 local Config = {
     WindowTitle = "Muscle Legends V1 Loader",
-    SubTitle = "by @iamvyxon",
+    SubTitle = "by @Mtp_hello",
     Theme = "Dark",
     TabWidth = 160,
     WindowSize = {580, 460},
